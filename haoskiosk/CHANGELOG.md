@@ -6,6 +6,8 @@
 - Added 'debug' config that stops add-on before launching luakit
 - Cleaned up/improved code in run.sh and userconf.lua
 - Reverted to luakit=2.3.6-r0 since luakit=2.4.0-r0 crashes (temporary fix)
+- changed to "de" keyboard layout
+- add (apk add) xkeyboard-config
 
 ## v0.9.8 – June 2025
 
